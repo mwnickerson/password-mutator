@@ -60,5 +60,8 @@ The script will create a text file containing all the generated mutations of the
 This tool is intended for educational purposes only. Please use it responsibly and ethically. Do not use this script to test passwords that do not belong to you or without permission.
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
