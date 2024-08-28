@@ -28,7 +28,7 @@ The Password Mutator Script is a Python tool designed to generate various mutati
 
 To run the script, use the following command in your terminal or command prompt:
 ```
-python password_mutator.py <your_weak_password> [output_file.txt]
+python mutate_pw.py <your_weak_password> [output_file.txt]
 ````
 
 ### Parameters
