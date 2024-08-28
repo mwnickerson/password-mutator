@@ -41,13 +41,13 @@ python mutate_pw.py <your_weak_password> [output_file.txt]
 1. To generate mutations for the password "password" and save them to a file named `password.txt`:
 
 ```
- python password_mutator.py password
+ python mutate_pw.py password
  ```
 
 2. To generate mutations for the password "password" and save them to a file named `custom_output.txt`:
 
 ```
- python password_mutator.py password custom_output.txt 
+ python mutate_pw.py password custom_output.txt 
  ```
 
 
